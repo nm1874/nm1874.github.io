@@ -1,11 +1,11 @@
 # Site settings
 author: Nina Mortensen
-title: 
+title: Data science 
 header-img: img/home-bg.png
 email: nina.mortensen@stern.nyu.edu
 copyright_name: Nina Mortensen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron data science bootcamp projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nm1874
