@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Statistical Distributions"
-date:       2019-09-07 23:47:54 +0000
+date:       2019-09-07 19:47:55 -0400
 permalink:  statistical_distributions
 ---
 
