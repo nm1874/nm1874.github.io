@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Statistical Testing"
-date:       2019-09-18 15:05:26 +0000
+date:       2019-09-18 11:05:26 -0400
 permalink:  statistical_testing
 ---
 
