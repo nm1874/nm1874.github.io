@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Geometric and Inverse Binomial"
-date:       2019-09-18 15:03:48 +0000
+date:       2019-09-18 11:03:49 -0400
 permalink:  geometric_and_inverse_binomial
 ---
 
 
 
-In this blog, I’m going dwell on their so-called ‘counterparts’, which are Geometric and Inverse Binomial.
+In this blog, I’m going dwell on the  ‘counterparts’ of Binomial and Bernoulli Distributions, which are Geometric and Inverse Binomial.
 Both of them concerns the idea of a sequence of Bernoulli trials, hence it is worth it to recall when we are facing a Bernoulli random experiment.
 The Bernoulli distribution is the discrete probability distribution of a random variable which takes a binary, boolean output: 1 with probability p, and 0 with probability (1-p). The idea is that, whenever you are running an experiment which might lead either to a success or to a failure, you can associate with your success (labeled with 1) a probability p, while your insuccess (labeled with 0) will have probability (1-p).
 The probability function associated with a Bernoulli variable is the following:
