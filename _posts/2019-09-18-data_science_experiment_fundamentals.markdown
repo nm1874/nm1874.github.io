@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Science Experiment Fundamentals"
-date:       2019-09-18 15:06:15 +0000
+date:       2019-09-18 11:06:16 -0400
 permalink:  data_science_experiment_fundamentals
 ---
 
