@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Poisson Process"
-date:       2019-09-18 15:00:53 +0000
+date:       2019-09-18 11:00:53 -0400
 permalink:  poisson_process
 ---
 
-In my previous article I covered several topics on the Poisson process. A topic I did not cover was the intuition for why the Probability Mass Function of the Poisson distribution looks like this:
+The intuition for why the Probability Mass Function of the Poisson distribution looks like this:
 Probability Mass Function for the Poisson Distribution
 In other words, if λ events occur per unit time, why does the above formula yield the probability of k events occurring in time t?
 Various texts on the Poisson process explain how the Poisson distribution is the limiting case of the Binomial distribution i.e. as n → ∞, the Binomial distribution’s PMF morphs into the Poisson distribution’s PMF. At least that is how the math works.
